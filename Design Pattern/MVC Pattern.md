@@ -73,7 +73,24 @@
 
 2. 각각의 부분에서 데이터 요청과 응답을 주고 받는다.
 
-   View --(요청)--> Presenter --(요청)--> Model --(응답)--> Presenter --(응답)--> View
+   View --(데이터 요청)--> Presenter --(데이터 요청)--> Model --(응답)--> Presenter --(응답)--> View
+
+3. View는 Presenter가 응답한 데이터를 이용하여 화면을 나타낸다.
+
+### 특징
+
+- Presenter는 View와 Model의 인스턴스를 가지고 있어 둘을 연결하는 접착제 역할을 한다.
+- Presenter와 View는 1:1관계
+- 장점 : Presenter를 통해서만 데이터를 전달 받기 때문에 View와 Model의 의존성이 없다(->MVC패턴의 단점).
+- 단점 : View와 Presenter사이의 의존성이 높다. 어플리케이션의 복합도:point_up: -> 둘 사이의 의존성:point_up:
+
+
+
+## MVVM
+
+
+
+
 
 
 
