@@ -24,7 +24,7 @@
 
 : 소프트웨어의 개발 방법을 공식화 한 것, 개발자 간의 커뮤니케이션을 돕고, 과거 해결한 문제를 쉽게 처리할 수 있도록 만들어 놓은 규칙
 
-- [MVC Pattern]() by Summer on Sept. 08, 2020.
+- [MVC vs MVP vs MVVM]() by Summer on Sept. 08, 2020.
 
 <br />
 

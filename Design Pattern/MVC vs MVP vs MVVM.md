@@ -2,7 +2,7 @@
 
 ## MVC Pattern
 
-: Model - View - Controller, 3가지로 역할을 나누어 개발하는 패턴
+: Model - View - Controller로 구성, 3가지로 역할을 나누어 개발하는 패턴
 
 ### 구조
 
@@ -51,7 +51,9 @@
 
 
 
+예제 참고 : [https://hanee24.github.io/2018/02/14/what-is-mvc-pattern/](https://hanee24.github.io/2018/02/14/what-is-mvc-pattern/)
 
+<br />
 
 ## MVP Pattern 
 
@@ -59,7 +61,7 @@
 
 ### 구조
 
-![](D:\Hajung\git\SW_Studying\img\mvppattern_1.jpg)
+![](..\img\mvppattern_1.jpg)
 
 #### Presenter
 
@@ -86,15 +88,57 @@
 
 
 
+예제 참고 : [https://faith-developer.tistory.com/71](https://faith-developer.tistory.com/71)
+
+<br />
+
 ## MVVM
 
+: Model - View - View Model로 구성
+
+### 구조
+
+![](../img/mvvmpattern_1.jpg)
+
+#### View Model
+
+: View를 표현하기 위해 만든 View를 위한 Model
 
 
 
+### 동작
+
+1. 사용자의 Action이 View를 통해 들어온다.
+2. Command 패턴으로 View Model에 Action을 전달한다.
+3. View Model은 Model에게 데이터를 요청한다.
+4. Model은 VM에게 데이터를 응답한다.
+5. VM은 응답 받은 데이터를 가공하여 저장한다.
+6. View는 VM과 Data Binding하여 화면을 나타낸다.
+
+
+
+### 특징
+
+- MVVM은 Command 패턴과 Data Binding(데이터 결합)을 사용하여 구현되었으며, 이를 통해 View와 VM 사이의 의존성을 없앴다.
+- VM과 View는 1:n관계
+- 장점: View와 Model사이, View와 VM사이의 의존성이 없다,== 각 부분이 독립적이기 때문에 모듈화하여 개발할 수 있다.
+- 단점: View Model의 설계가 쉽지 않다.
+
+#### Commad Pattern
+
+: 요청을 객체의 형태로 캡슐화하여 사용자가 보낸 요청을 나중에 이용할 수 있도록 매서드 이름, 매개변수 등 요청에 필요한 정보를 저장 또는 로깅, 취소할 수 있게 하는 패턴
+
+#### Data Binding
+
+: provider와 consumer의 데이터를 연결하고 동기화 시키는 라이브러리
+
+-> 사용자가 입력한 값을 어플리케이션 도메인 객체에 동적으로 할당하는 기능
 
 
 
 참고 :
 
 [https://beomy.tistory.com/43](https://beomy.tistory.com/43)
+
+[위키백과: 커맨드 패턴](https://ko.wikipedia.org/wiki/%EC%BB%A4%EB%A7%A8%EB%93%9C_%ED%8C%A8%ED%84%B4)
 
