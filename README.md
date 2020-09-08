@@ -30,7 +30,7 @@
 
 ## Web Programming
 
-- [컴파일 언어 vs 인터프리터 언어](/WebProgramming/컴파일 언어 vs 인터프리터 언어.md) by Seowon on Sept. 08, 2020.
+- [컴파일 언어 vs 인터프리터 언어](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EC%96%B8%EC%96%B4%20vs%20%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%20%EC%96%B8%EC%96%B4.md) by Seowon on Sept. 08, 2020.
 
 <br />
 
