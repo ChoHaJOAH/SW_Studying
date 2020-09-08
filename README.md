@@ -10,6 +10,10 @@
 
 ## Database
 
+## Design Pattern
+
+- [MVC Pattern]() by Summer on Sept. 08, 2020.
+
 ## Web Programming_Front-End
 
 ### React / Vue.js
