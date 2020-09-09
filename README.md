@@ -10,6 +10,12 @@
 
 ## Language
 
+### Java
+
+- [Java]() by Summer on Sept. 09, 2020.
+- [JVM]() by Summer on Sept. 09, 2020.
+- [OOP]() by Summer on Sept. 09, 2020.
+
 <br />
 
 ## OS
@@ -43,6 +49,8 @@
 <br />
 
 ## Web Programming > Back-End
+
+- [DAO, DTO, VO]() by Summer on Sept. 09, 2020.
 
 ### Spring
 
