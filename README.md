@@ -55,11 +55,5 @@
 
 ### Spring
 
-<<<<<<< HEAD
 - [Spring과 Spring Boot](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/Back-End/Spring%EA%B3%BC%20SpringBoot.md) by Summer on Sept. 07, 2020.
 - AOP란? by Summer on Sept. 14, 2020.
-=======
-- [Spring과 Spring Boot](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/Back-End/Spring%EA%B3%BC%20SpringBoot.md) by Summer on Sep. 07, 2020.
->>>>>>> a2be34610e0071b83ea188ceab34fa98a357b71d
-
-<br />
