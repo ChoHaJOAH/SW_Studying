@@ -57,3 +57,4 @@
 
 - [Spring과 Spring Boot](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/Back-End/Spring%EA%B3%BC%20SpringBoot.md) by Summer on Sept. 07, 2020.
 - AOP란? by Summer on Sept. 14, 2020.
+- Proxy패턴 by Summer on Sept. 16, 2020.
