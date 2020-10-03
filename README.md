@@ -24,6 +24,8 @@
 
 ## Database
 
+- Join by Summer on Oct. 03, 2020.
+
 <br />
 
 ## Design Pattern
