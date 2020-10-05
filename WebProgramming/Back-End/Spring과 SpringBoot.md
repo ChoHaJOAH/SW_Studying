@@ -21,6 +21,19 @@
 
   - 객체를 Bean이라고 부르며, 프로젝트가 실행될 때 자동으로 객체를 생성해주는데, 객체 요청이 들어오면 스프링은 실행될 때 생성된 Bean을 주입시겨준다-> DI과정
 
+    - ex)
+
+    ```java
+    class Fruit{
+        private Apple a;
+        public void setApple(Apple a){
+            this.a = a;
+        }
+    }
+    ```
+
+    
+
 - IoC(Inversion of Control) :  제어의 역전, 제어의 흐름을 바꾸는 것
 
   - 스프링이 실행 시 모든 의존성 객체를 만들어 주고 필요한 곳에 주입시켜주며 Bean들은 싱글턴 패턴의 특징을 가진다.
