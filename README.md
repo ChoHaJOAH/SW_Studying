@@ -10,6 +10,10 @@
 
 ## Language
 
+### [JavaScript](./JavaScript)
+
+- [Scope](./JavaScript/Scope.md)
+
 ### [Java](./Language/Java)
 
 - [Java](./Language/Java/Java.md)
