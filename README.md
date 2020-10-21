@@ -1,5 +1,12 @@
 # SW_Studying
 
+## [Network](./Network)
+
+- [네트워크7계층](./Network/네트워크7계층.md)
+- [분할과다중화](./Network/분할과다중화.md)
+
+<br />
+
 ## Algorithm
 
 <br />
