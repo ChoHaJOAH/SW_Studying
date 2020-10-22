@@ -7,7 +7,9 @@
 
 <br />
 
-## Algorithm
+## [Algorithm](./Algorithm)
+
+- [최소 신장 트리 (MST, 크루스칼, 프림 알고리즘)](./Algorithm/최소신장트리_MST.md)
 
 <br />
 
