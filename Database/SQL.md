@@ -28,11 +28,3 @@
 - ex) GRANT, REVOKE 등
 
 <br />
-
-#### 생각해보기!
-
-- sql문이 실행되는 순서를 알고 있나요?
-
-  - select쿼리문을 실행했을 때 처리 순서는 FROM - WHERE - GROUP BY - HAVING - SELECT - ORDER BY순입니다.
-
-  
