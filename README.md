@@ -63,3 +63,11 @@
 - [Spring AOP](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/Back-End/Spring%20AOP.md)
 - [AOP란?](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/Back-End/Spring%20AOP.md)
 - [Proxy패턴](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/Back-End/Proxy%ED%8C%A8%ED%84%B4.md)
+
+<br/>
+
+## Industry 4.0
+
+### Cloud
+
+- [IaaS, Paas, SaaS, BaaS, FaaS]()
