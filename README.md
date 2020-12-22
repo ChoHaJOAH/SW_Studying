@@ -20,13 +20,14 @@
 
 ## OS
 
-- [Cache]
-- [SSD의 읽기, 쓰기, 삭제]
+- [Cache](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/Cache.md)
+- [SSD의 읽기, 쓰기, 삭제](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/SSD%EC%9D%98%20%EC%9D%BD%EA%B8%B0%2C%20%EC%93%B0%EA%B8%B0%2C%20%EC%82%AD%EC%A0%9C.md)
 
 <br />
 
 ## Database
 
+- [데이터베이스 개요]
 - [Join](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/Join.md)
 
 <br />
@@ -44,7 +45,7 @@
 
 - [컴파일 언어 vs 인터프리터 언어](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EC%96%B8%EC%96%B4%20vs%20%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%20%EC%96%B8%EC%96%B4.md)
 - [REST, RESTfUL, RESTful API](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/REST%2C%20RESTful%2C%20RESTful%20API.md)
-- [라이브러리 vs 프레임워크]
+- [라이브러리 vs 프레임워크](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACvs%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)
 
 <br />
 
@@ -73,6 +74,6 @@
 ## Industry 4.0
 
 - Cloud
-  - [IaaS, Paas, SaaS, BaaS, FaaS]
+  - [IaaS, Paas, SaaS, BaaS, FaaS](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Industry%204.0/IaaS%2C%20Paas%2C%20SaaS%2C%20BaaS%2C%20FaaS.md)
 
-- [블록체인]
+- [블록체인](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Industry%204.0/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8.md)
