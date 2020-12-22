@@ -23,6 +23,8 @@
 
 - [Cache](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/Cache.md)
 - [SSD의 읽기, 쓰기, 삭제](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/SSD%EC%9D%98%20%EC%9D%BD%EA%B8%B0%2C%20%EC%93%B0%EA%B8%B0%2C%20%EC%82%AD%EC%A0%9C.md)
+- [운영체제(OS)](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C(OS).md)
+- [Linux](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/Linux.md)
 
 <br />
 
