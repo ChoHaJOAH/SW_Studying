@@ -10,7 +10,7 @@
 
 ## Language
 
-### Java
+### [Java](https://github.com/ChoHaJOAH/SW_Studying/tree/master/Java)
 
 - [Java](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Language/Java/Java.md)
 - [JVM](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Language/Java/JVM.md)
@@ -18,21 +18,22 @@
 
 <br />
 
-## OS
+## [OS](https://github.com/ChoHaJOAH/SW_Studying/tree/master/OS)
 
 - [Cache](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/Cache.md)
 - [SSD의 읽기, 쓰기, 삭제](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/SSD%EC%9D%98%20%EC%9D%BD%EA%B8%B0%2C%20%EC%93%B0%EA%B8%B0%2C%20%EC%82%AD%EC%A0%9C.md)
 
 <br />
 
-## Database
+## [Database](https://github.com/ChoHaJOAH/SW_Studying/tree/master/Database)
 
-- [데이터베이스 개요]
+- [데이터베이스 개요](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EC%9A%94.md)
+- [데이터모델링]
 - [Join](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/Join.md)
 
 <br />
 
-## Design Pattern
+## [Design Pattern](https://github.com/ChoHaJOAH/SW_Studying/tree/master/Design%20Pattern)
 
 : 소프트웨어의 개발 방법을 공식화 한 것, 개발자 간의 커뮤니케이션을 돕고, 과거 해결한 문제를 쉽게 처리할 수 있도록 만들어 놓은 규칙
 
@@ -41,7 +42,7 @@
 
 <br />
 
-## Web Programming
+## [Web Programming](https://github.com/ChoHaJOAH/SW_Studying/tree/master/WebProgramming)
 
 - [컴파일 언어 vs 인터프리터 언어](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EC%96%B8%EC%96%B4%20vs%20%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%20%EC%96%B8%EC%96%B4.md)
 - [REST, RESTfUL, RESTful API](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/REST%2C%20RESTful%2C%20RESTful%20API.md)
@@ -49,7 +50,7 @@
 
 <br />
 
-## Web Programming > Front-End
+## Web Programming > [Front-End](https://github.com/ChoHaJOAH/SW_Studying/tree/master/WebProgramming/Front-End)
 
 ### React / Vue.js
 
@@ -57,7 +58,7 @@
 
 <br />
 
-## Web Programming > Back-End
+## Web Programming > [Back-End](https://github.com/ChoHaJOAH/SW_Studying/tree/master/WebProgramming/Back-End)
 
 - [DAO, DTO, VO](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/Back-End/DAO%20DTO%20VO.md)
 - [Maven vs Gradle](https://github.com/ChoHaJOAH/SW_Studying/blob/master/WebProgramming/Back-End/Maven%20vs%20Gradle.md)
@@ -71,7 +72,7 @@
 
 <br/>
 
-## Industry 4.0
+## [Industry 4.0](https://github.com/ChoHaJOAH/SW_Studying/tree/master/Industry 4.0)
 
 - Cloud
   - [IaaS, Paas, SaaS, BaaS, FaaS](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Industry%204.0/IaaS%2C%20Paas%2C%20SaaS%2C%20BaaS%2C%20FaaS.md)
