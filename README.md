@@ -15,6 +15,7 @@
 - [Java](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Language/Java/Java.md)
 - [JVM](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Language/Java/JVM.md)
 - [OOP](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Language/Java/OOP.md)
+- [오버로딩(Overloading) vs 오버라이딩(Overriding)](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Language/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9(Overloading)%20vs%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9(Overriding).md)
 
 <br />
 
@@ -22,6 +23,8 @@
 
 - [Cache](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/Cache.md)
 - [SSD의 읽기, 쓰기, 삭제](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/SSD%EC%9D%98%20%EC%9D%BD%EA%B8%B0%2C%20%EC%93%B0%EA%B8%B0%2C%20%EC%82%AD%EC%A0%9C.md)
+- [운영체제(OS)](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C(OS).md)
+- [Linux](https://github.com/ChoHaJOAH/SW_Studying/blob/master/OS/Linux.md)
 
 <br />
 
