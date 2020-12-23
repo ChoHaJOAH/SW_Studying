@@ -75,7 +75,7 @@
 
 <br/>
 
-## [Industry 4.0](https://github.com/ChoHaJOAH/SW_Studying/tree/master/Industry 4.0)
+## [Industry 4.0](https://github.com/ChoHaJOAH/SW_Studying/tree/master/Industry4.0)
 
 - Cloud
   - [IaaS, Paas, SaaS, BaaS, FaaS](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Industry%204.0/IaaS%2C%20Paas%2C%20SaaS%2C%20BaaS%2C%20FaaS.md)
