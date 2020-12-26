@@ -28,4 +28,14 @@
 
 ### 	2) [뷰와 시스템 카탈로그](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/뷰와%20시스템%20카탈로그.md)
 
-### 	3) [NoSQL](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/NoSQL.md)
+### 	3) [NoSQL](./NoSQL.md)
+
+<br/>
+
+## 4. 정규화
+
+### 1) 이상(Anomaly)과 함수적 종속
+
+### 2) 정규화
+
+### 3) 역정규화
