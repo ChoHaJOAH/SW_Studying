@@ -28,4 +28,4 @@
 
 ### 	2) [뷰와 시스템 카탈로그](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/뷰와%20시스템%20카탈로그.md)
 
-### 	3) [SQL vs NoSQL](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/SQL%20vs%20NoSQL.md)
+### 	3) [NoSQL](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/NoSQL.md)

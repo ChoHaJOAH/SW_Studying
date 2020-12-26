@@ -34,12 +34,12 @@
 - [데이터베이스 관리 시스템(DBMS)](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/DBMS.md)
 - [데이터베이스 구조(Schema)](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/Schema.md)
 - [데이터베이스 설계](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/데이터베이스%20설계.md)
-
 - [관계 데이터 모델](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/관계%20데이터%20모델.md)
-
 - [키와 무결성 제약조건](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/키와%20무결성%20제약조건.md)
-
 - [JOIN](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/JOIN.md)
+- [SQL(Structured Query Language)](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/SQL.md)
+- [뷰와 시스템 카탈로그](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/뷰와%20시스템%20카탈로그.md)
+- [NoSQL](https://github.com/ChoHaJOAH/SW_Studying/blob/master/Database/NoSQL.md)
 
 <br />
 
