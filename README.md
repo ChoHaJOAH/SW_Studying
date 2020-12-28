@@ -40,6 +40,8 @@
 - [SQL(Structured Query Language)](./Database/SQL.md)
 - [뷰와 시스템 카탈로그](./Database/뷰와%20시스템%20카탈로그.md)
 - [NoSQL](./Database/NoSQL.md)
+- [이상(Anomaly)과 함수적 종속](./이상(Anomaly)과%20함수적%20종속.md)
+- [정규화와 역정규화](./정규화와%20역정규화.md)
 
 <br />
 
