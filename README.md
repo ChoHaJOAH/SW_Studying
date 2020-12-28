@@ -22,7 +22,7 @@
 ## [OS](./OS)
 
 - [Cache](./OS/Cache.md)
-- [SSD의 읽기, 쓰기, 삭제](./OS/SSD의 읽기, 쓰기, 삭제.md)
+- [SSD의 읽기, 쓰기, 삭제](./OS/SSD의 읽기_쓰기_삭제.md)
 - [운영체제(OS)](./OS/운영체제(OS).md)
 - [Linux](./OS/Linux.md)
 
@@ -40,8 +40,13 @@
 - [SQL(Structured Query Language)](./Database/SQL.md)
 - [뷰와 시스템 카탈로그](./Database/뷰와%20시스템%20카탈로그.md)
 - [NoSQL](./Database/NoSQL.md)
-- [이상(Anomaly)과 함수적 종속](./이상(Anomaly)과%20함수적%20종속.md)
-- [정규화와 역정규화](./정규화와%20역정규화.md)
+- [이상(Anomaly)과 함수적 종속](./Database/이상(Anomaly)과%20함수적%20종속.md)
+- [정규화와 역정규화](./Database/정규화와%20역정규화.md)
+- [트랜잭션(Transaction)](./Database/Transaction.md)
+
+- [회복 기법과 병행 제어](./Database/회복%20기법과%20병행%20제어.md)
+
+- [데이터베이스 용어](./Database/데이터베이스%20용어.md)
 
 <br />
 
