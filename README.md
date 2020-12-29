@@ -16,13 +16,14 @@
 - [JVM](./Language/Java/JVM.md)
 - [OOP](./Language/Java/OOP.md)
 - [오버로딩(Overloading) vs 오버라이딩(Overriding)](./Language/Java/오버로딩(Overloading)%20vs%20오버라이딩(Overriding).md)
+- [비트연산자](./Language/Java/비트연산자.md)
 
 <br />
 
 ## [OS](./OS)
 
 - [Cache](./OS/Cache.md)
-- [SSD의 읽기, 쓰기, 삭제](./OS/SSD의 읽기_쓰기_삭제.md)
+- [SSD의 읽기, 쓰기, 삭제](./OS/SSD의%20읽기_쓰기_삭제.md)
 - [운영체제(OS)](./OS/운영체제(OS).md)
 - [Linux](./OS/Linux.md)
 
