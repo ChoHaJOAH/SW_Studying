@@ -43,6 +43,7 @@
 - [프로세스](./OS/프로세스.md)
 - [프로세스의 연산](./OS/프로세스의%20연산.md)
 - [스레드](./OS/스레드.md)
+- [CPU스케줄링](./OS/CPU스케줄링.md)
 - [Cache](./OS/Cache.md)
 - [SSD의 읽기, 쓰기, 삭제](./OS/SSD의%20읽기_쓰기_삭제.md)
 - [Linux](./OS/Linux.md)
