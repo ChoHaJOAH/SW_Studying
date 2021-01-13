@@ -19,6 +19,8 @@
 
 ## Language
 
+- [Java vs JavaScript](./Language/Java%20vs%20JavaScript.md)
+
 ### [JavaScript](./JavaScript)
 
 - [Scope](./JavaScript/Scope.md)
