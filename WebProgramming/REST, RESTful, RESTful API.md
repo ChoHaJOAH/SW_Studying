@@ -20,7 +20,9 @@
 
 <br />
 
-### REST API(REpresentational State Transfe API)
+### REST API(REpresentational State Transfer API)
+
+- REST 아키텍처의 제약 조건을 준수하는 애플리케이션 프로그래밍 인터페이스
 
 - 요청이 어떤 정보, 어떤 요청인지 요청의 모습으로 추론이 가능하다!!(RESTful한 API)
   - 보통 URI의 구성은 동사가 아닌 명사로 이루어져 있다.
