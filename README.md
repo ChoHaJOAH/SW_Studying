@@ -89,8 +89,9 @@
 
 : 소프트웨어의 개발 방법을 공식화 한 것, 개발자 간의 커뮤니케이션을 돕고, 과거 해결한 문제를 쉽게 처리할 수 있도록 만들어 놓은 규칙
 
-- [MVC vs MVP vs MVVM](./Design%20Pattern/MVC%20vs%20MVP%20vs%20MVVM.md)
-- [Proxy패턴](./Design%20Pattern/Proxy%ED%8C%A8%ED%84%B4.md)
+- [MVC vs MVP vs MVVM](./DesignPattern/MVC%20vs%20MVP%20vs%20MVVM.md)
+- [Proxy패턴](./DesignPattern/Proxy%ED%8C%A8%ED%84%B4.md)
+- [Singleton Pattern](./DesignPattern/Singleton%20Pattern.md)
 
 <br />
 
