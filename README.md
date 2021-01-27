@@ -127,6 +127,7 @@
 - [Spring AOP](./WebProgramming/Back-End/Spring%20AOP.md)
 - [AOP란?](./WebProgramming/Back-End/Spring%20AOP.md)
 - [Proxy패턴](./WebProgramming/Back-End/Proxy패턴.md)
+- [JPA](./WebProgramming/Back-End/JPA.md)
 
 <br/>
 
