@@ -77,3 +77,11 @@ public class Posts {
 
 - 테이블의 칼럼, 굳이 선언하지 않더라도 해당 클래스의 필드는 모두 칼럼이 된다.
 - 기본값 외에 추가로 변경이 필요한 옵션이 있으면 사용
+
+## Repository
+
+- ibatis나 MyBatis 등에서 Dao라고 불리는 DB Layer 접근자
+- JPA에선 Repository라고 부르며 인터페이스로 생성
+- JpaRepository<Entity 클래스, PK 타입>을 상속하면 기본적인 CRUD메소드가 자동으로 생성된다.
+- Entity 클래스와 기본 Entity Repository는 함께 위치해야한다.
+  - Entity클래스는 기본 Repository없이는 제대로 역할을 할 수가 없다.
