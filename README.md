@@ -104,6 +104,7 @@
 - [WAS](./WebProgramming/WAS.md)
 - [WAS vs Web Server](./WebProgramming/WAS%20vs%20Web%20Server.md)
 - [인터페이스 vs 추상클래스](./WebProgramming/인터페이스%20vs%20추상클래스.md)
+- [동기(Synchronous), 비동기(Asynchronous)](./WebProgramming/동기vs비동기.md)
 
 <br />
 
