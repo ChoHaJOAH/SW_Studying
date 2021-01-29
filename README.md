@@ -104,6 +104,7 @@
 - [WAS](./WebProgramming/WAS.md)
 - [WAS vs Web Server](./WebProgramming/WAS%20vs%20Web%20Server.md)
 - [인터페이스 vs 추상클래스](./WebProgramming/인터페이스%20vs%20추상클래스.md)
+- [Agile](./WebProgramming/Agile.md)
 - [동기(Synchronous), 비동기(Asynchronous)](./WebProgramming/동기vs비동기.md)
 
 <br />
@@ -120,6 +121,7 @@
 
 - [DAO, DTO, VO](./WebProgramming/Back-End/DAO%20DTO%20VO.md)
 - [Maven vs Gradle](./WebProgramming/Back-End/Maven%20vs%20Gradle.md)
+- [Lombok](./WebProgramming/Back-End/Lombok.md)
 
 ### Spring
 
@@ -127,6 +129,7 @@
 - [Spring AOP](./WebProgramming/Back-End/Spring%20AOP.md)
 - [AOP란?](./WebProgramming/Back-End/Spring%20AOP.md)
 - [Proxy패턴](./WebProgramming/Back-End/Proxy패턴.md)
+- [JPA](./WebProgramming/Back-End/JPA.md)
 
 <br/>
 
