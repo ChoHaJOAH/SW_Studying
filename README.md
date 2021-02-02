@@ -92,6 +92,7 @@
 - [MVC vs MVP vs MVVM](./DesignPattern/MVC%20vs%20MVP%20vs%20MVVM.md)
 - [Proxy패턴](./DesignPattern/Proxy%ED%8C%A8%ED%84%B4.md)
 - [Singleton Pattern](./DesignPattern/Singleton%20Pattern.md)
+- [디자인패턴의 종류](./DesignPattern/디자인패턴의%20종류.md)
 
 <br />
 
